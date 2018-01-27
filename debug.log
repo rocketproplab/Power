@@ -4,3 +4,12 @@
 [0113/110233:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0113/110237:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0113/110237:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0113/132632:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[0113/132632:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0113/132705:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0113/132705:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {E942DE3D-7C5D-4BEE-8386-50B6AE5724B9}\BrowserCache\GPUCache to C:\ProgramData\Altium\Altium Designer {E942DE3D-7C5D-4BEE-8386-50B6AE5724B9}\BrowserCache\old_GPUCache_000
+[0113/132705:ERROR:cache_creator.cc(129)] Unable to create cache
+[0113/132705:ERROR:shader_disk_cache.cc(589)] Shader Cache Creation failed: -2
+[0113/132705:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0113/132705:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {E942DE3D-7C5D-4BEE-8386-50B6AE5724B9}\BrowserCache to C:\ProgramData\Altium\Altium Designer {E942DE3D-7C5D-4BEE-8386-50B6AE5724B9}\old_BrowserCache_000
+[0113/132705:ERROR:cache_creator.cc(129)] Unable to create cache
